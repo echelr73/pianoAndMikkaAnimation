@@ -1,0 +1,2512 @@
+fileFormatVersion: 2
+guid: f0740695dcfea5d4d8fa0ef782087597
+importerOverride:
+  nativeImporterType: 2089858483
+  scriptedImporterType:
+    serializedVersion: 2
+    Hash: b10b55a1aa6a1aa32521bc0cab59632e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 0
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: a9a283e71e590e44fa26a5196fffd6dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  multiSpriteImportData: []
+  layeredSpriteImportData:
+  - name: RavenmoreIconPack.3_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1655
+      width: 61
+      height: 82
+    spriteID: 74717bc7deb1f7f4bada6e71669bfe6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1655}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 1655
+      width: 48
+      height: 58
+    spriteID: 2a51219ff5666404cb415c12a5d4ba78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 1655}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1573
+      width: 70
+      height: 74
+    spriteID: c9f9c13b235d22f4fa6d0abe596f3b8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1573}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 1574
+      width: 70
+      height: 72
+    spriteID: 256238d6993564942b2841832b86694c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 1574}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 161
+      y: 1573
+      width: 56
+      height: 72
+    spriteID: 0fdc81d59d86842498da28678d66710a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 161, y: 1573}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 225
+      y: 1634
+      width: 9
+      height: 8
+    spriteID: cb59c768aa04ddd4b9598974a52c9384
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 1634}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 225
+      y: 1573
+      width: 58
+      height: 65
+    spriteID: a9351eef7822d454c81533b9f4476118
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 1573}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 291
+      y: 1573
+      width: 58
+      height: 69
+    spriteID: 297a3578c201c134598f32afd9a98bd0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 291, y: 1573}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 357
+      y: 1634
+      width: 9
+      height: 8
+    spriteID: 4211b86e4b41ccf4aa54c5cf209d435d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 357, y: 1634}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 357
+      y: 1573
+      width: 58
+      height: 65
+    spriteID: 61a645649a51e60448516873c47d3b71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 357, y: 1573}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 423
+      y: 1573
+      width: 60
+      height: 63
+    spriteID: eccafce83f6038a4da2243e823e6a8b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 423, y: 1573}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 492
+      y: 1573
+      width: 64
+      height: 59
+    spriteID: e9e66d1c8e2032741a3b0a30884b3a78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 492, y: 1573}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 564
+      y: 1573
+      width: 65
+      height: 58
+    spriteID: 307476af1cb768e42b3509fb810d5851
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 564, y: 1573}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 637
+      y: 1573
+      width: 56
+      height: 57
+    spriteID: d1e0e7d52eeed6a45b675de66bb22115
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 637, y: 1573}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 701
+      y: 1573
+      width: 46
+      height: 42
+    spriteID: a9346cbbd3892ff4bb878eef8c685b2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 701, y: 1573}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 755
+      y: 1573
+      width: 46
+      height: 42
+    spriteID: 001352532acec0d4e929114063d5bc8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 755, y: 1573}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 809
+      y: 1573
+      width: 46
+      height: 42
+    spriteID: 7539ebe54bc304547b71ef0ed69cfb00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 809, y: 1573}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1467
+      width: 78
+      height: 98
+    spriteID: f4abe038bdcf880419c9e7cdae060f48
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1467}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 1467
+      width: 78
+      height: 98
+    spriteID: a1b2228cb75ff994ca62cc3ccb23d62f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 1467}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 177
+      y: 1467
+      width: 83
+      height: 90
+    spriteID: 22daeec4f78da0d4594523378087a883
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 1467}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 269
+      y: 1467
+      width: 83
+      height: 90
+    spriteID: 7ef88d2bd0ad48146b63a8b40ac05273
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 269, y: 1467}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 361
+      y: 1467
+      width: 74
+      height: 90
+    spriteID: b97fb5ff8256d524aab23914b1566432
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 361, y: 1467}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 1467
+      width: 86
+      height: 80
+    spriteID: af713ab4be70f704a8e2819c67f08165
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 444, y: 1467}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 538
+      y: 1467
+      width: 76
+      height: 89
+    spriteID: 592f14980608bad43b195762b57607ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 538, y: 1467}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 1467
+      width: 76
+      height: 86
+    spriteID: a819bf849314a10498e4bff9ccb80ec1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 622, y: 1467}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 706
+      y: 1467
+      width: 68
+      height: 85
+    spriteID: e80655f1a979c7d458cb72cc0c3b0a46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 706, y: 1467}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 782
+      y: 1467
+      width: 77
+      height: 75
+    spriteID: 5f3f77e894dcbb84db19ca9af05b8d4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 782, y: 1467}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 867
+      y: 1467
+      width: 72
+      height: 79
+    spriteID: ca82a8872159d2747afaea1aea70f0d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 867, y: 1467}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 947
+      y: 1467
+      width: 73
+      height: 74
+    spriteID: 0b52d79ee9a40954490a472ead2d6da4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 947, y: 1467}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1326
+      width: 94
+      height: 133
+    spriteID: f66e64300761bc745a3395f2218066a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1326}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 1324
+      width: 107
+      height: 120
+    spriteID: fa5de8d1b8ad942459fed64a558dfe70
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 1324}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 1339
+      width: 99
+      height: 108
+    spriteID: f1accc3b5baacc54590d0506624b5e4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 226, y: 1339}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 266
+      y: 1444
+      width: 4
+      height: 4
+    spriteID: 1f5a8d43199b88b42a54d3a3a5a85642
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 266, y: 1444}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 333
+      y: 1339
+      width: 99
+      height: 107
+    spriteID: 1f8ded06750558d47bbd3d8da24110aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 333, y: 1339}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 1379
+      width: 6
+      height: 11
+    spriteID: 2b73b343ef600db47abc8e323e4a6bae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 1379}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 442
+      y: 1339
+      width: 101
+      height: 98
+    spriteID: 27d435c1843b9d642b2535932776e0d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 442, y: 1339}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 551
+      y: 1339
+      width: 102
+      height: 98
+    spriteID: 47f682940239ac143a015187136d43e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 551, y: 1339}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 661
+      y: 1379
+      width: 15
+      height: 22
+    spriteID: 292f6c322953b6e479eec816d8ac12aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 661, y: 1379}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 678
+      y: 1378
+      width: 13
+      height: 18
+    spriteID: d9566a5c99ac7ec429b4cde642dc7816
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 678, y: 1378}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 692
+      y: 1378
+      width: 12
+      height: 18
+    spriteID: 1d27179f735499c4ea3a91608062438d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 692, y: 1378}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 706
+      y: 1378
+      width: 11
+      height: 18
+    spriteID: 0c27092e15ed5bf499fc559abc2da2f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 706, y: 1378}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 718
+      y: 1378
+      width: 15
+      height: 18
+    spriteID: 6b1f495fcf7811245ab7e519abb99ae9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 718, y: 1378}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 733
+      y: 1378
+      width: 21
+      height: 18
+    spriteID: 57e1587ae85e38f419788fd5022edc6a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 733, y: 1378}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 755
+      y: 1378
+      width: 12
+      height: 18
+    spriteID: fa1e54f8fd2b9ee49a569b97c537beb8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 755, y: 1378}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 768
+      y: 1378
+      width: 23
+      height: 18
+    spriteID: 0e20da20c1ef9884abc4533d1d78c316
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 768, y: 1378}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 801
+      y: 1379
+      width: 5
+      height: 21
+    spriteID: 57441c2088be0f64c93363d2e84ee53c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 801, y: 1379}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 808
+      y: 1378
+      width: 11
+      height: 18
+    spriteID: 58c2cd547efe32943ba4159f5c6f67f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 808, y: 1378}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 820
+      y: 1378
+      width: 11
+      height: 18
+    spriteID: 001214e28fc63b142bceac11e1d4c958
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 820, y: 1378}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 832
+      y: 1378
+      width: 15
+      height: 18
+    spriteID: 87fad34606fbb8546a2328513c33464f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 832, y: 1378}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 854
+      y: 1379
+      width: 15
+      height: 22
+    spriteID: 4e3ce5a8e67c98f43a9ff51f4f8d5f91
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 854, y: 1379}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 871
+      y: 1378
+      width: 13
+      height: 18
+    spriteID: 323909f89de7bb145b53897b24e88694
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 871, y: 1378}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 885
+      y: 1378
+      width: 11
+      height: 18
+    spriteID: 60dcee9a5e7b8b247b770e3a3934214e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 885, y: 1378}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 896
+      y: 1378
+      width: 14
+      height: 24
+    spriteID: 6f03dae838502d8469d4c102c48993bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 896, y: 1378}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 919
+      y: 1378
+      width: 12
+      height: 18
+    spriteID: eafe0b6ffdcbe2a4784084d8ab64703f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 919, y: 1378}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 933
+      y: 1379
+      width: 13
+      height: 21
+    spriteID: 93c6dd1df0de1fc4ea03e4f3c623c8f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 933, y: 1379}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 948
+      y: 1378
+      width: 6
+      height: 6
+    spriteID: 2c3450c73ed37e847bbde7b4a53c6042
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 948, y: 1378}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 956
+      y: 1378
+      width: 12
+      height: 22
+    spriteID: 385665bf742d8394caed155688f814a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 956, y: 1378}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 661
+      y: 1350
+      width: 13
+      height: 12
+    spriteID: 546aa700766048741b926cca4743ddd1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 661, y: 1350}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 683
+      y: 1346
+      width: 13
+      height: 23
+    spriteID: 0e50012b6ba0bb944a21cb992e62df41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 683, y: 1346}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 697
+      y: 1346
+      width: 12
+      height: 18
+    spriteID: a9d998d0a6213f84b90fa91d1b9122fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 697, y: 1346}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 710
+      y: 1346
+      width: 6
+      height: 24
+    spriteID: 3861a397571f1d04dbc9a57a1ff454ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 710, y: 1346}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 717
+      y: 1346
+      width: 12
+      height: 24
+    spriteID: 1f838129696483e46af95398d5e76e4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 717, y: 1346}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 730
+      y: 1346
+      width: 12
+      height: 18
+    spriteID: 736a560adf096dd488bbae6147ea7f84
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 730, y: 1346}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 743
+      y: 1346
+      width: 15
+      height: 18
+    spriteID: 710ee6a0db017ec43ae60359503dd813
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 743, y: 1346}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 766
+      y: 1346
+      width: 21
+      height: 23
+    spriteID: fc0dc08d33dab64459b301cbcfd43d27
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 766, y: 1346}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 1346
+      width: 11
+      height: 18
+    spriteID: cebc2a08fbeacda4cbceb2031518774e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 789, y: 1346}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 802
+      y: 1346
+      width: 13
+      height: 18
+    spriteID: 4074303cf00e6bd4ebe09f015a8c74fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 802, y: 1346}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 816
+      y: 1339
+      width: 13
+      height: 25
+    spriteID: 20df3ce1b16bd24458c29f9f3d27d6db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 816, y: 1339}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 830
+      y: 1346
+      width: 12
+      height: 18
+    spriteID: 19c85128f78e7a04b84217c247740a5d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 830, y: 1346}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 843
+      y: 1346
+      width: 15
+      height: 18
+    spriteID: 963de815df7c0dc46a0a6bf0373a53f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 843, y: 1346}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 865
+      y: 1346
+      width: 15
+      height: 23
+    spriteID: 6669aed033d0499439deb8df8cada6f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 865, y: 1346}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 881
+      y: 1339
+      width: 14
+      height: 25
+    spriteID: 6a6fc4ace0d6d8a47b02a2bc555404d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 881, y: 1339}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 896
+      y: 1339
+      width: 12
+      height: 25
+    spriteID: 48d9d4c5947956d44a4d79f880e93030
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 896, y: 1339}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 909
+      y: 1346
+      width: 25
+      height: 18
+    spriteID: 7a90330cf59e4674e8a308a7baee402f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 909, y: 1346}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 935
+      y: 1346
+      width: 12
+      height: 24
+    spriteID: 3bb35d21e51b33a45905e0d621376821
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 935, y: 1346}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 948
+      y: 1346
+      width: 11
+      height: 18
+    spriteID: de69f0b381123d34eb64db4e8067712c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 948, y: 1346}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1219
+      width: 93
+      height: 97
+    spriteID: 769e19e813c62204594944dd9ecc3985
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1219}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_77
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1000
+      height: 1212
+    spriteID: 7cffe5c021e19aa4d82e962b4f40dc33
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_78
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 1219
+      width: 105
+      height: 95
+    spriteID: 7d1ed51ee55a5904e97833413a5fb924
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 1219}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_79
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 254
+      y: 1215
+      width: 109
+      height: 113
+    spriteID: e73d96310b21e974a858695a44305478
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 254, y: 1215}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_80
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 374
+      y: 1223
+      width: 112
+      height: 101
+    spriteID: 609c5d58e26bb774d9bb6c7799ee8105
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 374, y: 1223}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 499
+      y: 1225
+      width: 116
+      height: 103
+    spriteID: 3208641e1eb360246ab7991ad65b47b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 499, y: 1225}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 623
+      y: 1224
+      width: 105
+      height: 103
+    spriteID: 322c0dc965db87844b8c0136979d5ce0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 623, y: 1224}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_83
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 736
+      y: 1212
+      width: 104
+      height: 114
+    spriteID: 72214ff48eac64746a8fbc69a4bb58d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 736, y: 1212}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_84
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 848
+      y: 1212
+      width: 104
+      height: 114
+    spriteID: 2ea74041112c52342a3aa6dfbcc859b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 848, y: 1212}
+    spritePosition: {x: 0, y: 0}
+  - name: RavenmoreIconPack.3_85
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 961
+      y: 1212
+      width: 56
+      height: 81
+    spriteID: 4d388dc02304242439fb2beb46b8b5b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 961, y: 1212}
+    spritePosition: {x: 0, y: 0}
+  spriteImportData: []
+  rigSpriteImportData: []
+  sharedRigSpriteImportData: []
+  mosaicSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  padding: 4
+  spriteSizeExpand: 0
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  pSDLayerImportSetting: []
+  psdLayers:
+  - name: Upgrades
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 6782fef0b5da2ca41868f497f9f2a1de
+    layerID: 350
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Spear Upgrade
+    spriteName: Spear Upgrade
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4d21279cb5ee45742af717d2afaafb5a
+    layerID: 367
+    mosaicPosition: {x: 623, y: 1212}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Wand Upgrade
+    spriteName: Wand Upgrade
+    isGroup: 0
+    parentIndex: 0
+    spriteID: cfdfdefe148f9f14ea50f81384e23862
+    layerID: 368
+    mosaicPosition: {x: 736, y: 1212}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bow Upgrade
+    spriteName: Bow Upgrade
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 22a44232213533a4388dcc51466d4978
+    layerID: 364
+    mosaicPosition: {x: 4, y: 1467}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Armor Upgrade
+    spriteName: Armor Upgrade
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 74ca5cefe2070e64882a049675627d61
+    layerID: 363
+    mosaicPosition: {x: 4, y: 1212}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Helmet Upgrade
+    spriteName: Helmet Upgrade
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0e1be27731705f84f84cec78dd969fa3
+    layerID: 362
+    mosaicPosition: {x: 960, y: 1212}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Dagger Upgrade
+    spriteName: Dagger Upgrade
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8c2980b554b0d9f40aa8ff02422798a9
+    layerID: 361
+    mosaicPosition: {x: 4, y: 1655}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Sword Upgrade
+    spriteName: Sword Upgrade
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6b817e3b7bd9b7648ace0c5cc8017f31
+    layerID: 360
+    mosaicPosition: {x: 176, y: 1467}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Small Shield Upgrade
+    spriteName: Small Shield Upgrade
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3a9b9d24f1e279d48a1c85d62b27be13
+    layerID: 359
+    mosaicPosition: {x: 82, y: 1573}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Shield Upgrade
+    spriteName: Shield Upgrade
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f70d5c66147e55642b403e90df391e5b
+    layerID: 357
+    mosaicPosition: {x: 622, y: 1467}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: AxeDouble 2 Upgrade
+    spriteName: AxeDouble 2 Upgrade
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b8a6f3c80cad71144b12cbbd7974c71e
+    layerID: 355
+    mosaicPosition: {x: 111, y: 1339}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Axe 2 Upgrade
+    spriteName: Axe 2 Upgrade
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 09fe135fa4dd9264e9c8440541aef680
+    layerID: 352
+    mosaicPosition: {x: 264, y: 1212}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hammer Upgrade
+    spriteName: Hammer Upgrade
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3b5c65f639beb5b4f9b9fee35dbbfd7a
+    layerID: 356
+    mosaicPosition: {x: 226, y: 1339}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Basics
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 1049d93c1fbd0804798a78fb68aa8087
+    layerID: 353
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Document/Map
+    spriteName: Document/Map
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 7acc0faa051a9464bbac91c4abeae3ca
+    layerID: 303
+    mosaicPosition: {x: 706, y: 1467}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Axe 2
+    spriteName: Axe 2
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 3a26383be452ac1479e63965cb0748f7
+    layerID: 282
+    mosaicPosition: {x: 388, y: 1212}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Wand
+    spriteName: Wand
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 6579663c5d64a424dbf924d9d8232393
+    layerID: 370
+    mosaicPosition: {x: 848, y: 1212}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Spear
+    spriteName: Spear
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 86e804400d6264b49a21590675c112c3
+    layerID: 369
+    mosaicPosition: {x: 509, y: 1212}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Axe
+    spriteName: Axe
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 52ad5999ae62919449bb5a81656ac53f
+    layerID: 284
+    mosaicPosition: {x: 4, y: 1339}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hammer
+    spriteName: Hammer
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 60d900b49dd00f748a6bb01ba77bfd0f
+    layerID: 285
+    mosaicPosition: {x: 333, y: 1339}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Shield
+    spriteName: Shield
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 8d0d5b5d32ec5d84cafa1933c6512ef9
+    layerID: 288
+    mosaicPosition: {x: 538, y: 1467}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Small Shield
+    spriteName: Small Shield
+    isGroup: 0
+    parentIndex: 13
+    spriteID: e53a2d18b0a3df24aaab4670d5b81dcb
+    layerID: 311
+    mosaicPosition: {x: 4, y: 1573}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Scroll
+    spriteName: Scroll
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 325986f496e086a4e92ae0331fc7a3ab
+    layerID: 305
+    mosaicPosition: {x: 637, y: 1573}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Backpack
+    spriteName: Backpack
+    isGroup: 0
+    parentIndex: 13
+    spriteID: eca69c67ef7ad5448acf6ec237d9ba38
+    layerID: 289
+    mosaicPosition: {x: 867, y: 1467}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: AxeDouble 2
+    spriteName: AxeDouble 2
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 37512ae9f56a39a4cadcdb0ca7951485
+    layerID: 290
+    mosaicPosition: {x: 551, y: 1339}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: AxeDouble
+    spriteName: AxeDouble
+    isGroup: 0
+    parentIndex: 13
+    spriteID: c67c05b997cc5c64fbfffbccc50924ca
+    layerID: 291
+    mosaicPosition: {x: 440, y: 1339}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Armor
+    spriteName: Armor
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 384c84fcc5daa2e459147c06b958e6c2
+    layerID: 292
+    mosaicPosition: {x: 134, y: 1212}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bow
+    spriteName: Bow
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 30547c684780d1143a07f3de76bfe174
+    layerID: 299
+    mosaicPosition: {x: 90, y: 1467}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: WoodSword
+    spriteName: WoodSword
+    isGroup: 0
+    parentIndex: 13
+    spriteID: acaea8ff38f25484da68e761d0407522
+    layerID: 307
+    mosaicPosition: {x: 947, y: 1467}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Tools
+    spriteName: Tools
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 75ac588732f2cae4e87e1f7a6ca7f3b9
+    layerID: 293
+    mosaicPosition: {x: 444, y: 1467}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Sword
+    spriteName: Sword
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 8a8a4dc3badab804b9e835309a686b15
+    layerID: 294
+    mosaicPosition: {x: 268, y: 1467}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Dagger
+    spriteName: Dagger
+    isGroup: 0
+    parentIndex: 13
+    spriteID: f59016eb00d0f084eb420614aacf14a3
+    layerID: 295
+    mosaicPosition: {x: 61, y: 1655}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Helmet
+    spriteName: Helmet
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 3ef65c725aa056d4dba6ee9895dc990e
+    layerID: 296
+    mosaicPosition: {x: 160, y: 1573}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Heart
+    spriteName: Heart
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 58f0284e062f6f142b09301f2d5083a5
+    layerID: 298
+    mosaicPosition: {x: 492, y: 1573}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Tome
+    spriteName: Tome
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 1ec76af344650d74cbe22dc5efbce42f
+    layerID: 300
+    mosaicPosition: {x: 360, y: 1467}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Coin
+    spriteName: Coin
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 00a9dd5c770e19c47bb77acf25acec0e
+    layerID: 301
+    mosaicPosition: {x: 564, y: 1573}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: X
+    spriteName: X
+    isGroup: 0
+    parentIndex: 13
+    spriteID: eed9007812676cb439a18f58c31a0bdc
+    layerID: 306
+    mosaicPosition: {x: 423, y: 1573}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Gems
+    spriteName: 
+    isGroup: 1
+    parentIndex: 13
+    spriteID: d18886c7226821145beb87490b2ee2d7
+    layerID: 335
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: GemRed
+    spriteName: GemRed
+    isGroup: 0
+    parentIndex: 37
+    spriteID: 2a3847b50d5fef24987fd51072316baf
+    layerID: 334
+    mosaicPosition: {x: 701, y: 1573}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: GemBlue
+    spriteName: GemBlue
+    isGroup: 0
+    parentIndex: 37
+    spriteID: 8ab8b24c2f47611489d2969922bd8ef5
+    layerID: 332
+    mosaicPosition: {x: 755, y: 1573}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: GemGreen
+    spriteName: GemGreen
+    isGroup: 0
+    parentIndex: 37
+    spriteID: 7633ccc86bbe3b345898833bd459e0b1
+    layerID: 302
+    mosaicPosition: {x: 809, y: 1573}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Potions
+    spriteName: 
+    isGroup: 1
+    parentIndex: 13
+    spriteID: 3f6d09c0c209a584eb78175dde932e1a
+    layerID: 328
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: PotionRed
+    spriteName: PotionRed
+    isGroup: 0
+    parentIndex: 41
+    spriteID: fc0370c7ce52d084782827b76040dda3
+    layerID: 327
+    mosaicPosition: {x: 225, y: 1573}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: PotionBlue
+    spriteName: PotionBlue
+    isGroup: 0
+    parentIndex: 41
+    spriteID: a52ec10244e6ce84080304e8e247dfeb
+    layerID: 325
+    mosaicPosition: {x: 291, y: 1573}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: PotionGreen
+    spriteName: PotionGreen
+    isGroup: 0
+    parentIndex: 41
+    spriteID: 4cc702402c3ac014e821a5a30bf26d60
+    layerID: 297
+    mosaicPosition: {x: 357, y: 1573}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Envelope
+    spriteName: Envelope
+    isGroup: 0
+    parentIndex: 13
+    spriteID: c4a792da6c892444488cf69ba599cc64
+    layerID: 304
+    mosaicPosition: {x: 782, y: 1467}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: + Golden Weapon Upgrade
+    spriteName: + Golden Weapon Upgrade
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1611270e00024b546b4260a98ac1a8dd
+    layerID: 371
+    mosaicPosition: {x: 661, y: 1339}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ravenmore Icon Pack v2.0
+    spriteName: Ravenmore Icon Pack v2.0
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7aeab8c489ef23a449af81939efbe898
+    layerID: 349
+    mosaicPosition: {x: 661, y: 1378}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: LightBG
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6f4a37b4a2508a44ba73cfdd87d289f8
+    layerID: 283
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: DarkBG
+    spriteName: DarkBG
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 04d998335d4887d4993c01b035119374
+    layerID: 7
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Unofficial Secret Bonus
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 0d8a06c1c73fa2e4890d6d0747a2f73d
+    layerID: 339
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Tankard
+    spriteName: 
+    isGroup: 0
+    parentIndex: 50
+    spriteID: 873b2288765f68943b16acf0fffa6387
+    layerID: 312
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  mosaicPSDLayers: []
+  rigPSDLayers: []
+  sharedRigPSDLayers: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

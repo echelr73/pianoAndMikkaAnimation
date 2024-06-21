@@ -1,0 +1,21 @@
+# ninja log v5
+999	8990	7367580569877891	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	ed1335a8ea451e5f
+7934	9297	7367580623362486	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	2956a0f1db44af52
+6888	8997	7367580619509321	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	a97bbc070cc196e
+2137	8992	7367580577480254	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	8a2d98222b7b8bc3
+10	8988	7367580559962203	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	3998994eccdb2501
+4578	8994	7367580598103335	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	53704c8446fb9d0b
+3327	8993	7367580590610552	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	4810762644a7df79
+5771	8996	7367580610336976	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	e1dc0253cab9ff55
+8997	12196	7367580645247142	C:/Users/martin.echeverria/ProtoGame2D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/284p361x/obj/arm64-v8a/libgame.so	432da01fc5f02d7
+9298	12439	7367580647924822	C:/Users/martin.echeverria/ProtoGame2D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/284p361x/obj/arm64-v8a/libswappywrapper.so	3350ebea1c28a034
+15	7992	7367595144707227	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	3998994eccdb2501
+851	7994	7367595149761345	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	8a2d98222b7b8bc3
+1755	7996	7367595163627530	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	ed1335a8ea451e5f
+2819	7998	7367595169312417	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	a97bbc070cc196e
+3816	7999	7367595182081893	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	4810762644a7df79
+5018	8001	7367595190106129	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	e1dc0253cab9ff55
+5963	8002	7367595198308159	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	53704c8446fb9d0b
+7010	8289	7367595203168283	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	2956a0f1db44af52
+8003	11923	7367595231310463	C:/Users/martin.echeverria/ProtoGame2D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/284p361x/obj/arm64-v8a/libgame.so	432da01fc5f02d7
+8289	11966	7367595232321696	C:/Users/martin.echeverria/ProtoGame2D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/284p361x/obj/arm64-v8a/libswappywrapper.so	3350ebea1c28a034
